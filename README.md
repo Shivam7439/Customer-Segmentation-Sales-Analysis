@@ -51,5 +51,4 @@ It includes key fields such as Order Date, Customer ID, Product, Sales, Profit, 
 This dashboard enables a structured analysis of business performance and customer behavior, supporting data-driven decision-making and strategic planning.
 
 ## Author
-BBA Final Year Student | Aspiring Business Analyst
-Skills: Excel | Power BI | Data Analysis
+Shivam Sharma
